@@ -1,0 +1,95 @@
+body {background: #E5E5E5;}
+.block{
+	margin-bottom: 0cm;
+	margin-top: 0cm;
+	}
+.block__elem0
+	{
+	left: 0%;
+	right: 0%;
+	top: 25%;
+	bottom: 0%;
+	padding: 15px;
+
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 43px;
+	line-height: 51px;
+	/* identical to box height */
+
+	/*letter-spacing: -0.645em;*/
+
+	/* Черный */
+
+	color: #454750;
+	}
+.block__elem1, .block__elem3, .block__elem5,
+.block__elem7, .block__elem9, .block__elem11
+	{
+	float: left;
+	width: 370px;
+	height: 273px;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 26.22%;
+	border-radius: 2px;
+	}	
+.block__elem1 {
+	background: url(1.png);
+	} 
+.block__elem3 {background: url(2.png);}  
+.block__elem5 {background: url(3.png);} 
+.block__elem7 {background: url(4.png);}  
+.block__elem9 {background: url(5.png);}  
+.block__elem11 {
+	background: url(6.png);
+	} 	
+
+.block__elem2
+	{	
+	float: left;
+	margin: 15px;
+	width: 370px;
+	left: 0%;
+	right: 0%;
+	top: 73.78%;
+	bottom: 0%;
+
+	background: #E5E5E5;
+	/* 16b */
+	box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+	width: 370px;
+	height: 370px;
+	border-radius: 2px;
+	}
+	
+.block__elem4, .block__elem6
+	{	
+	left: 8.11%;
+	right: 28.65%;
+	top: 79.19%;
+	bottom: 5.68%;
+	padding: 15px;
+	
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 28px;
+	/* or 175% */
+	}
+
+.block__elem4
+	{	
+	/* Черный */
+
+	color: #454750;
+	}
+.block__elem6
+	{	
+	/* Синий */
+
+	color: #3685EE;
+	}
